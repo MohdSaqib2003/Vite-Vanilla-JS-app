@@ -7,4 +7,5 @@ export default defineConfig({
   build: {
     outDir: "dist",
   },
+  base: '/Vite-Vanilla-JS-app/',// Use the repository name
 });
